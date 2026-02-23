@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DEAD CENTER（feat. LiSA）",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-23T19:49:27.630065Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEAD CENTER",
+      "artist": "Reol, LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_DEAD_CENTER_Reol,_LiSA.txt"
+    }
+  ]
+}
